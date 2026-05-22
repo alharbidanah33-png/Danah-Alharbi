@@ -1,4 +1,4 @@
-# Hi, I'm Danah 👋
+# Hi, I'm Danah Alharbi
 
 ### Computer Information Systems Graduate
 
