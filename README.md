@@ -14,7 +14,7 @@ I enjoy working on projects that combine technology, creativity, and problem-sol
 - Excel
 
 ## Projects
-Projects and case studies will be uploaded here soon.
+- Tasty Way – Food Delivery Mobile Application (UI/UX Design)
 
 ## Connect with me
 LinkedIn:
